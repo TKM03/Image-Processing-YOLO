@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/Pothole detection YOLOv8.v1i.yolov8/train_sampled/images
+val: /content/drive/MyDrive/Pothole detection YOLOv8.v1i.yolov8/valid/images
+test: /content/drive/MyDrive/Pothole detection YOLOv8.v1i.yolov8/test_sampled/images
+
+nc: 1
+names: ['Potholes']
